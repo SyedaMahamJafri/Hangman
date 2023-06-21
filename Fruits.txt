@@ -1,0 +1,52 @@
+apple
+apricot
+avocado
+banana
+bilberry
+blackberry
+blackcurrant
+black sapote
+blueberry
+cherry
+coconut
+crab apple
+cranberry
+urrant
+damson
+date
+dragonfruit
+durian
+egg Fruit
+fig
+grape
+raisin
+grapefruit
+guava
+lemon
+lime
+lychee
+mango
+melon
+orange
+mandarine
+tangerine
+papaya
+passionfruit
+peach
+pear
+persimmon
+plantain
+plum
+prune
+pumpkin
+pineapple
+pineberry
+plumcot
+pomegranate
+raspberry
+redcurrant
+rose apple
+star apple
+star fruit
+strawberry
+white currant
